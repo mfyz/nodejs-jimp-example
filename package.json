@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-jimp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "resize-filter": "node resize-filter.js",
+    "text": "node text.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.9.3"
+  }
+}
